@@ -148,9 +148,9 @@ footer{
     cursor: pointer;
 }
 .grid { 
-    display: grid; 
+/*     display: grid; 
     grid-template-columns: auto auto; 
-    margin-top: 5px;
+    margin-top: 5px; */
 }
 .fix{
     width: 95%;
